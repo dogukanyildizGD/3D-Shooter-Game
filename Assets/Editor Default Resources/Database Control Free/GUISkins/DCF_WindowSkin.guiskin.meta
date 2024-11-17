@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8224af6ae0978c4aa371f04486aed03
+timeCreated: 1482932831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41337
+  packageName: Database Control (Free)
+  packageVersion: 1.1.2
+  assetPath: Assets/Editor Default Resources/Database Control Free/GUISkins/DCF_WindowSkin.guiskin
+  uploadId: 218080

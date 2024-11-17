@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c997b97e2c75bf34aa8425bd14b53188
+timeCreated: 1483137228
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41337
+  packageName: Database Control (Free)
+  packageVersion: 1.1.2
+  assetPath: Assets/Database Control Free/Demos/C#/DCF_Demo_C#.unity
+  uploadId: 218080

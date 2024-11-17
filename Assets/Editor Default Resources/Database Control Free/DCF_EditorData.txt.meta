@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8b6ca833d747fc43ad87aaeb7c8e142
+timeCreated: 1483012974
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41337
+  packageName: Database Control (Free)
+  packageVersion: 1.1.2
+  assetPath: Assets/Editor Default Resources/Database Control Free/DCF_EditorData.txt
+  uploadId: 218080

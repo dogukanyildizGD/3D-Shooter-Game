@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2923ea5bae5ccbc4ea046000636ec7f9
+timeCreated: 1483012974
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41337
+  packageName: Database Control (Free)
+  packageVersion: 1.1.2
+  assetPath: Assets/Database Control Free/Resources/DCF_RuntimeData.txt
+  uploadId: 218080
